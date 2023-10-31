@@ -1,0 +1,15 @@
+.img img {
+    height: 60vh;
+    width: 100%;
+}
+
+.img {
+    padding: 30px;
+}
+
+.label {
+    height: auto;
+    padding: 100px;
+    font-size: 20px;
+
+}
