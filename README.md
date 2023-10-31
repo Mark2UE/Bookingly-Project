@@ -1,5 +1,6 @@
 # Bookingly (PHP Procedural Project)
-!img(img/BOOKINGLY.png)
+
+![logo](img/BOOKINGLY.pn)
 Welcome to the Bookingly project repository!
 
 **Bookingly** is an exciting web development project developed as part of a semester-long academic assignment. It is designed to replicate the user-friendly booking experience of popular platforms like Airbnb and provides an excellent opportunity for hands-on learning in web development.
